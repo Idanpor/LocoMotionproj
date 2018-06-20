@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "1055729556544",
+    "firebase_url": "https://motion-1c32c.firebaseio.com",
+    "project_id": "motion-1c32c",
+    "storage_bucket": "motion-1c32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055729556544:android:206c917fad7a963d",
+        "android_client_info": {
+          "package_name": "com.example.a310238429.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055729556544-7aev83ujc3upis7ibkumm0cv5o4o3320.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a310238429.demo",
+            "certificate_hash": "ff33737bce87176a7d921375e8ce77ccc9c3b103"
+          }
+        },
+        {
+          "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgvR9D0m_sRc2xgC9gsYHcebhiNe5ZUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055729556544:android:ec2f74c5d343cc9e",
+        "android_client_info": {
+          "package_name": "com.example.a310238429.locomotionproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055729556544-552tm36kgpebo71gtvl7opslecdoe2bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a310238429.locomotionproject",
+            "certificate_hash": "ff33737bce87176a7d921375e8ce77ccc9c3b103"
+          }
+        },
+        {
+          "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgvR9D0m_sRc2xgC9gsYHcebhiNe5ZUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055729556544:android:623afa3ba20994b0",
+        "android_client_info": {
+          "package_name": "com.example.a310238429.motion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055729556544-2r19glmk6ar419lio7in4rjgq508inva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a310238429.motion",
+            "certificate_hash": "ff33737bce87176a7d921375e8ce77ccc9c3b103"
+          }
+        },
+        {
+          "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgvR9D0m_sRc2xgC9gsYHcebhiNe5ZUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055729556544-g6cl7rm2shmc8bs890p5tdp1id2ik39u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
